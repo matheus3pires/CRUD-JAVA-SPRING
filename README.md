@@ -7,6 +7,7 @@ This repository contains a simple CRUD project built using Java Spring. The aim 
 - [Configuration](#configuration)
 - [API Endpoints](#api-endpoints)
 - [Database](#database)
+- [API Screenshot](#screebshot)
 
 ## Installation
 
@@ -41,3 +42,6 @@ DELETE / - Delete data.
 The project utilizes PostgresSQL as the database. The necessary database migrations are managed using Flyway.
 
 To [install PostgresSQL])(https://www.postgresql.org/download/) you can install here.
+
+## API Screenshot
+![Captura de tela 2024-01-29 161906](https://github.com/matheus3pires/CRUD-JAVA-SPRING/assets/87993331/ecce4ca7-b373-4829-b64b-a7f043fffd37)
