@@ -1,7 +1,5 @@
 # Simple CRUD
-This repository contains a simple CRUD project built using Java Spring. The aim of this repository is to practice and share how you can build all CRUD Methods using Java Spring.
-
-This project was build during a [live in my Youtube Channel](https://www.youtube.com/watch?v=tP6wtEaCnSI).
+This repository contains a simple CRUD project built using Java Spring. The aim of this repository is to practice and share how build all CRUD Methods using Java Spring.
 
 ## Table of Contents
 
@@ -15,7 +13,7 @@ This project was build during a [live in my Youtube Channel](https://www.youtube
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/live-crud-java-spring.git
+git clone https://github.com/matheus3pires/CRUD-JAVA-SPRING
 ```
 
 2. Install dependencies with Maven
